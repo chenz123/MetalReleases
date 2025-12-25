@@ -35,14 +35,12 @@ jobs:
 
       - name: 5. Commit and Push Results
         run: |
+          # CONFIGURATION (Required to fix your error)
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           
-          # 'git add' stages the file whether it's new OR modified
           git add metal_releases.json
           
-          # We check if there are changes before committing
-          # This prevents the workflow from failing if no new albums were found
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
