@@ -27,7 +27,7 @@ jobs:
           # Upgrade pip just in case
           python -m pip install --upgrade pip
           # Install directly (easier than maintaining requirements.txt for 3 packages)
-          pip install cloudscraper beautifulsoup4 requests
+          pip install scripts/requirements
 
       - name: 4. Run Scraper Script
         # FIXED: Pointing to the scripts folder
