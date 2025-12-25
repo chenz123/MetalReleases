@@ -1,0 +1,49 @@
+name: Daily Metal Scraper
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # Runs at 8:00 AM UTC
+  workflow_dispatch:
+
+jobs:
+  scrape-and-commit:
+    runs-on: ubuntu-latest
+    
+    # Permissions are needed to push back to the repo
+    permissions:
+      contents: write
+    
+    steps:
+      - name: 1. Checkout Code
+        uses: actions/checkout@v4
+
+      - name: 2. Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: 3. Install Dependencies
+        run: |
+          # Upgrade pip just in case
+          python -m pip install --upgrade pip
+          # Install directly (easier than maintaining requirements.txt for 3 packages)
+          pip install cloudscraper beautifulsoup4 requests
+
+      - name: 4. Run Scraper Script
+        # FIXED: Pointing to the scripts folder
+        run: python scripts/metal_releases.py
+
+      - name: 5. Commit and Push Results
+        run: |
+          # CONFIGURATION (Required to fix your error)
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          
+          git add metal_releases.json
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Auto-update metal releases: $(date +'%Y-%m-%d')"
+            git push
+          fi
