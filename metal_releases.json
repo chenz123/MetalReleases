@@ -1,5 +1,13 @@
 [
     {
+        "artist": "Bleidd",
+        "album": "Stormrage",
+        "release_date": "2025-12-26",
+        "genre": "Metalcore, Progressive Metal, Metal, Djent",
+        "url": "https://www.albumoftheyear.org/album/1592583-bleidd-stormrage.php",
+        "source": "AOTY"
+    },
+    {
         "artist": "ANTLRS",
         "album": "Invest",
         "release_date": "2025-12-22",
@@ -13,6 +21,14 @@
         "release_date": "2025-12-20",
         "genre": "Metalcore, Metal",
         "url": "https://www.albumoftheyear.org/album/1583946-amulet-dont-say-the-anguish-took-her-life.php",
+        "source": "AOTY"
+    },
+    {
+        "artist": "MORTAL REMINDER",
+        "album": "MORTAL REMINDER II",
+        "release_date": "2025-12-19",
+        "genre": "Metalcore, Progressive Metal, Metal, Djent",
+        "url": "https://www.albumoftheyear.org/album/1557724-mortal-reminder-mortal-reminder-ii.php",
         "source": "AOTY"
     },
     {
@@ -40,6 +56,14 @@
         "source": "AOTY"
     },
     {
+        "artist": "Thanatologist",
+        "album": "MMXXV",
+        "release_date": "2025-12-16",
+        "genre": "Death Metal, Metal",
+        "url": "https://musicbrainz.org/release/eed7d676-7bb7-4c59-9bc0-25c79e6d3ff4",
+        "source": "MusicBrainz"
+    },
+    {
         "artist": "Jordan Liubenov",
         "album": "TODE",
         "release_date": "2025-12-13",
@@ -56,6 +80,14 @@
         "source": "MusicBrainz"
     },
     {
+        "artist": "Martröð",
+        "album": "Draumsýnir Eldsins",
+        "release_date": "2025-12-12",
+        "genre": "Black Metal, Metal",
+        "url": "https://www.albumoftheyear.org/album/1504219-martr-draumsynir-eldsins.php",
+        "source": "AOTY"
+    },
+    {
         "artist": "Rotten Sound",
         "album": "Mass Extinction",
         "release_date": "2025-12-12",
@@ -69,22 +101,6 @@
         "release_date": "2025-12-12",
         "genre": "Death Metal, Progressive Metal, Metal",
         "url": "https://www.albumoftheyear.org/album/1530974-fleshvessel-obstinacy-sisyphean-dreams-unfolded.php",
-        "source": "AOTY"
-    },
-    {
-        "artist": "Olympus Lenticular",
-        "album": "Summit of Agony",
-        "release_date": "2025-12-12",
-        "genre": "Metalcore, Progressive Metal, Metal, Djent",
-        "url": "https://www.albumoftheyear.org/album/1574333-olympus-lenticular-summit-of-agony.php",
-        "source": "AOTY"
-    },
-    {
-        "artist": "Pincer+",
-        "album": "Who Are You When No One’s Around",
-        "release_date": "2025-12-12",
-        "genre": "Metalcore, Metal",
-        "url": "https://www.albumoftheyear.org/album/1573420-pincer-who-are-you-when-no-ones-around.php",
         "source": "AOTY"
     },
     {
@@ -104,19 +120,27 @@
         "source": "AOTY"
     },
     {
+        "artist": "Olympus Lenticular",
+        "album": "Summit of Agony",
+        "release_date": "2025-12-12",
+        "genre": "Metalcore, Progressive Metal, Metal, Djent",
+        "url": "https://www.albumoftheyear.org/album/1574333-olympus-lenticular-summit-of-agony.php",
+        "source": "AOTY"
+    },
+    {
+        "artist": "Pincer+",
+        "album": "Who Are You When No One’s Around",
+        "release_date": "2025-12-12",
+        "genre": "Metalcore, Metal",
+        "url": "https://www.albumoftheyear.org/album/1573420-pincer-who-are-you-when-no-ones-around.php",
+        "source": "AOTY"
+    },
+    {
         "artist": "Volumes",
         "album": "Mirror Touch",
         "release_date": "2025-12-12",
         "genre": "Progressive Metal, Metal, Djent",
         "url": "https://www.albumoftheyear.org/album/1521177-volumes-mirror-touch.php",
-        "source": "AOTY"
-    },
-    {
-        "artist": "KILL KARL",
-        "album": "SUCK ON MY ALBUM",
-        "release_date": "2025-12-12",
-        "genre": "Metal",
-        "url": "https://www.albumoftheyear.org/album/1566426-kill-karl-suck-on-my-album.php",
         "source": "AOTY"
     },
     {
@@ -128,12 +152,12 @@
         "source": "AOTY"
     },
     {
-        "artist": "Martröð",
-        "album": "Draumsýnir eldsins",
+        "artist": "KILL KARL",
+        "album": "SUCK ON MY ALBUM",
         "release_date": "2025-12-12",
-        "genre": "Black Metal",
-        "url": "https://musicbrainz.org/release/f27a4582-fc36-4e55-82b2-18bbc33babdb",
-        "source": "MusicBrainz"
+        "genre": "Metal",
+        "url": "https://www.albumoftheyear.org/album/1566426-kill-karl-suck-on-my-album.php",
+        "source": "AOTY"
     },
     {
         "artist": "Cryoxyd",
@@ -280,19 +304,19 @@
         "source": "AOTY"
     },
     {
-        "artist": "Witness Chamber",
-        "album": "Bronze Gates",
-        "release_date": "2025-12-05",
-        "genre": "Metalcore, Metal",
-        "url": "https://www.albumoftheyear.org/album/1566062-witness-chamber-bronze-gates.php",
-        "source": "AOTY"
-    },
-    {
         "artist": "Kakihara",
         "album": "Love Songs, Pt. 2",
         "release_date": "2025-12-05",
         "genre": "Metalcore, Metal",
         "url": "https://www.albumoftheyear.org/album/1566466-kakihara-love-songs-pt-2.php",
+        "source": "AOTY"
+    },
+    {
+        "artist": "Witness Chamber",
+        "album": "Bronze Gates",
+        "release_date": "2025-12-05",
+        "genre": "Metalcore, Metal",
+        "url": "https://www.albumoftheyear.org/album/1566062-witness-chamber-bronze-gates.php",
         "source": "AOTY"
     },
     {
@@ -304,19 +328,19 @@
         "source": "AOTY"
     },
     {
-        "artist": "Set For Tomorrow",
-        "album": "ARCS",
-        "release_date": "2025-12-05",
-        "genre": "Metal",
-        "url": "https://www.albumoftheyear.org/album/1506882-set-for-tomorrow-arcs.php",
-        "source": "AOTY"
-    },
-    {
         "artist": "Guttural Slug",
         "album": "Ulcers In The Flesh Of Thought",
         "release_date": "2025-12-05",
         "genre": "Metal",
         "url": "https://www.albumoftheyear.org/album/1565660-guttural-slug-ulcers-in-the-flesh-of-thought.php",
+        "source": "AOTY"
+    },
+    {
+        "artist": "Set For Tomorrow",
+        "album": "ARCS",
+        "release_date": "2025-12-05",
+        "genre": "Metal",
+        "url": "https://www.albumoftheyear.org/album/1506882-set-for-tomorrow-arcs.php",
         "source": "AOTY"
     },
     {
@@ -360,19 +384,19 @@
         "source": "MusicBrainz"
     },
     {
-        "artist": "Trhä",
-        "album": "tahaccet ga qëcha com ibajn",
-        "release_date": "2025-12-04",
-        "genre": "Black Metal, Metal",
-        "url": "https://www.albumoftheyear.org/album/1564634-trha-tahaccet-ga-qecha-com-ibajn.php",
-        "source": "AOTY"
-    },
-    {
         "artist": "Barbelith",
         "album": "BARBELITH / TRHÄ",
         "release_date": "2025-12-04",
         "genre": "Black Metal, Metal",
         "url": "https://www.albumoftheyear.org/album/1555850-barbelith-barbelith-trha.php",
+        "source": "AOTY"
+    },
+    {
+        "artist": "Trhä",
+        "album": "tahaccet ga qëcha com ibajn",
+        "release_date": "2025-12-04",
+        "genre": "Black Metal, Metal",
+        "url": "https://www.albumoftheyear.org/album/1564634-trha-tahaccet-ga-qecha-com-ibajn.php",
         "source": "AOTY"
     },
     {
@@ -400,19 +424,19 @@
         "source": "AOTY"
     },
     {
-        "artist": "Celldweller",
-        "album": "An Offworld Christmas",
-        "release_date": "2025-12-03",
-        "genre": "Metal",
-        "url": "https://www.albumoftheyear.org/album/1546415-celldweller-an-offworld-christmas.php",
-        "source": "AOTY"
-    },
-    {
         "artist": "Jutes",
         "album": "Dilworth",
         "release_date": "2025-12-03",
         "genre": "Metal",
         "url": "https://www.albumoftheyear.org/album/1331162-jutes-dilworth.php",
+        "source": "AOTY"
+    },
+    {
+        "artist": "Celldweller",
+        "album": "An Offworld Christmas",
+        "release_date": "2025-12-03",
+        "genre": "Metal",
+        "url": "https://www.albumoftheyear.org/album/1546415-celldweller-an-offworld-christmas.php",
         "source": "AOTY"
     },
     {
@@ -448,19 +472,19 @@
         "source": "AOTY"
     },
     {
-        "artist": "Ends In Tragedy",
-        "album": "Beauty Of Death",
-        "release_date": "2025-11-30",
-        "genre": "Metalcore, Metal",
-        "url": "https://www.albumoftheyear.org/album/1558566-ends-in-tragedy-beauty-of-death.php",
-        "source": "AOTY"
-    },
-    {
         "artist": "XavlegbmaofffassssitimiwoamndutroabcwapwaeiippohfffX",
         "album": "Hippopotomonstrosesquippedaliophobia",
         "release_date": "2025-11-30",
         "genre": "Metalcore, Metal",
         "url": "https://www.albumoftheyear.org/album/1532139-xavlegbmaofffassssitimiwoamndutroabcwapwaeiippohfffx-hippopotomonstrosesquippedaliophobia.php",
+        "source": "AOTY"
+    },
+    {
+        "artist": "Ends In Tragedy",
+        "album": "Beauty Of Death",
+        "release_date": "2025-11-30",
+        "genre": "Metalcore, Metal",
+        "url": "https://www.albumoftheyear.org/album/1558566-ends-in-tragedy-beauty-of-death.php",
         "source": "AOTY"
     },
     {
@@ -488,19 +512,19 @@
         "source": "AOTY"
     },
     {
-        "artist": "Nordicwinter",
-        "album": "Solitude",
-        "release_date": "2025-11-28",
-        "genre": "Black Metal, Metal",
-        "url": "https://www.albumoftheyear.org/album/1525376-nordicwinter-solitude.php",
-        "source": "AOTY"
-    },
-    {
         "artist": "Lungtoucher",
         "album": "My Consort, Eternal",
         "release_date": "2025-11-28",
         "genre": "Black Metal, Metal",
         "url": "https://www.albumoftheyear.org/album/1557043-lungtoucher-my-consort-eternal.php",
+        "source": "AOTY"
+    },
+    {
+        "artist": "Nordicwinter",
+        "album": "Solitude",
+        "release_date": "2025-11-28",
+        "genre": "Black Metal",
+        "url": "https://www.albumoftheyear.org/album/1525376-nordicwinter-solitude.php",
         "source": "AOTY"
     },
     {
@@ -552,19 +576,19 @@
         "source": "AOTY"
     },
     {
-        "artist": "TILLDEATHDOUSPART",
-        "album": "THE BURDEN OF ETERNITY",
-        "release_date": "2025-11-28",
-        "genre": "Metalcore, Metal",
-        "url": "https://www.albumoftheyear.org/album/1557849-tilldeathdouspart-the-burden-of-eternity.php",
-        "source": "AOTY"
-    },
-    {
         "artist": "Wings of Existence",
         "album": "Her House",
         "release_date": "2025-11-28",
         "genre": "Metalcore, Metal",
         "url": "https://www.albumoftheyear.org/album/1560817-wings-of-existence-her-house.php",
+        "source": "AOTY"
+    },
+    {
+        "artist": "TILLDEATHDOUSPART",
+        "album": "THE BURDEN OF ETERNITY",
+        "release_date": "2025-11-28",
+        "genre": "Metalcore",
+        "url": "https://www.albumoftheyear.org/album/1557849-tilldeathdouspart-the-burden-of-eternity.php",
         "source": "AOTY"
     },
     {
@@ -581,14 +605,6 @@
         "release_date": "2025-11-28",
         "genre": "Metal",
         "url": "https://www.albumoftheyear.org/album/1486096-equilibrium-equinox.php",
-        "source": "AOTY"
-    },
-    {
-        "artist": "Forced Deglovement",
-        "album": "Demo EP",
-        "release_date": "2025-11-28",
-        "genre": "Metal",
-        "url": "https://www.albumoftheyear.org/album/1556250-forced-deglovement-demo-ep.php",
         "source": "AOTY"
     },
     {
@@ -651,7 +667,7 @@
         "artist": "Feather Mountain",
         "album": "A Liminal Step",
         "release_date": "2025-11-27",
-        "genre": "Progressive Metal, Metal",
+        "genre": "Progressive Metal",
         "url": "https://www.albumoftheyear.org/album/1472157-feather-mountain-a-liminal-step.php",
         "source": "AOTY"
     },
@@ -752,35 +768,11 @@
         "source": "AOTY"
     },
     {
-        "artist": "Gasket",
-        "album": "GASKET",
-        "release_date": "2025-11-21",
-        "genre": "Metalcore",
-        "url": "https://www.albumoftheyear.org/album/1548969-gasket-gasket.php",
-        "source": "AOTY"
-    },
-    {
-        "artist": "My Ticket Home",
-        "album": "Pure To A Fault",
-        "release_date": "2025-11-21",
-        "genre": "Metalcore",
-        "url": "https://www.albumoftheyear.org/album/1545928-my-ticket-home-pure-to-a-fault.php",
-        "source": "AOTY"
-    },
-    {
         "artist": "Amor De Dios",
         "album": "Heaven Sent",
         "release_date": "2025-11-21",
         "genre": "Metalcore",
         "url": "https://www.albumoftheyear.org/album/1549097-amor-de-dios-heaven-sent.php",
-        "source": "AOTY"
-    },
-    {
-        "artist": "Graypath",
-        "album": "The Vanishing Sequence",
-        "release_date": "2025-11-21",
-        "genre": "Metalcore",
-        "url": "https://www.albumoftheyear.org/album/1549085-graypath-the-vanishing-sequence.php",
         "source": "AOTY"
     },
     {
@@ -797,6 +789,30 @@
         "release_date": "2025-11-21",
         "genre": "Metalcore",
         "url": "https://www.albumoftheyear.org/album/1494186-hetta-acetate.php",
+        "source": "AOTY"
+    },
+    {
+        "artist": "Gasket",
+        "album": "GASKET",
+        "release_date": "2025-11-21",
+        "genre": "Metalcore",
+        "url": "https://www.albumoftheyear.org/album/1548969-gasket-gasket.php",
+        "source": "AOTY"
+    },
+    {
+        "artist": "My Ticket Home",
+        "album": "Pure To A Fault",
+        "release_date": "2025-11-21",
+        "genre": "Metalcore",
+        "url": "https://www.albumoftheyear.org/album/1545928-my-ticket-home-pure-to-a-fault.php",
+        "source": "AOTY"
+    },
+    {
+        "artist": "Graypath",
+        "album": "The Vanishing Sequence",
+        "release_date": "2025-11-21",
+        "genre": "Metalcore",
+        "url": "https://www.albumoftheyear.org/album/1549085-graypath-the-vanishing-sequence.php",
         "source": "AOTY"
     },
     {
@@ -1048,19 +1064,19 @@
         "source": "AOTY"
     },
     {
-        "artist": "So Far So Good",
-        "album": "So Far So Good",
-        "release_date": "2025-11-14",
-        "genre": "Metalcore",
-        "url": "https://www.albumoftheyear.org/album/1540356-so-far-so-good-so-far-so-good.php",
-        "source": "AOTY"
-    },
-    {
         "artist": "Osiah",
         "album": "Aion",
         "release_date": "2025-11-14",
         "genre": "Metalcore",
         "url": "https://www.albumoftheyear.org/album/1521021-osiah-aion.php",
+        "source": "AOTY"
+    },
+    {
+        "artist": "So Far So Good",
+        "album": "So Far So Good",
+        "release_date": "2025-11-14",
+        "genre": "Metalcore",
+        "url": "https://www.albumoftheyear.org/album/1540356-so-far-so-good-so-far-so-good.php",
         "source": "AOTY"
     },
     {
@@ -1144,19 +1160,19 @@
         "source": "AOTY"
     },
     {
-        "artist": "Kostnatění",
-        "album": "Přílišnost (Excess)",
-        "release_date": "2025-11-07",
-        "genre": "Black Metal",
-        "url": "https://www.albumoftheyear.org/album/1455849-kostnateni-prilisnost-excess.php",
-        "source": "AOTY"
-    },
-    {
         "artist": "Tatterdemalion",
         "album": "Ultraterrestrial",
         "release_date": "2025-11-07",
         "genre": "Black Metal",
         "url": "https://www.albumoftheyear.org/album/1545326-tatterdemalion-ultraterrestrial.php",
+        "source": "AOTY"
+    },
+    {
+        "artist": "Kostnatění",
+        "album": "Přílišnost (Excess)",
+        "release_date": "2025-11-07",
+        "genre": "Black Metal",
+        "url": "https://www.albumoftheyear.org/album/1455849-kostnateni-prilisnost-excess.php",
         "source": "AOTY"
     },
     {
@@ -1240,19 +1256,19 @@
         "source": "AOTY"
     },
     {
-        "artist": "Northlane",
-        "album": "Node: Reloaded",
-        "release_date": "2025-11-07",
-        "genre": "Metalcore, Progressive Metal, Djent",
-        "url": "https://www.albumoftheyear.org/album/1496285-northlane-node-reloaded.php",
-        "source": "AOTY"
-    },
-    {
         "artist": "Emancipation",
         "album": "When The Heavens Opened... Bodies Fell",
         "release_date": "2025-11-07",
         "genre": "Metalcore",
         "url": "https://www.albumoftheyear.org/album/1567021-emancipation-when-the-heavens-opened-bodies-fell.php",
+        "source": "AOTY"
+    },
+    {
+        "artist": "Northlane",
+        "album": "Node: Reloaded",
+        "release_date": "2025-11-07",
+        "genre": "Metalcore, Progressive Metal, Djent",
+        "url": "https://www.albumoftheyear.org/album/1496285-northlane-node-reloaded.php",
         "source": "AOTY"
     },
     {
@@ -1384,19 +1400,19 @@
         "source": "AOTY"
     },
     {
-        "artist": "xfortunex",
-        "album": "The Blueprint",
-        "release_date": "2025-11-01",
-        "genre": "Metalcore",
-        "url": "https://www.albumoftheyear.org/album/1528722-xfortunex-the-blueprint.php",
-        "source": "AOTY"
-    },
-    {
         "artist": "Nonel",
         "album": "Eclipse",
         "release_date": "2025-11-01",
         "genre": "Metalcore, Progressive Metal, Djent",
         "url": "https://www.albumoftheyear.org/album/1524204-nonel-eclipse.php",
+        "source": "AOTY"
+    },
+    {
+        "artist": "xfortunex",
+        "album": "The Blueprint",
+        "release_date": "2025-11-01",
+        "genre": "Metalcore",
+        "url": "https://www.albumoftheyear.org/album/1528722-xfortunex-the-blueprint.php",
         "source": "AOTY"
     },
     {
@@ -1440,19 +1456,19 @@
         "source": "AOTY"
     },
     {
-        "artist": "Heraldic Blaze",
-        "album": "Monument of Will",
-        "release_date": "2025-10-31",
-        "genre": "Black Metal",
-        "url": "https://www.albumoftheyear.org/album/1525891-heraldic-blaze-monument-of-will.php",
-        "source": "AOTY"
-    },
-    {
         "artist": "One Of Nine",
         "album": "Dawn of the Iron Shadow",
         "release_date": "2025-10-31",
         "genre": "Black Metal",
         "url": "https://www.albumoftheyear.org/album/1416008-one-of-nine-dawn-of-the-iron-shadow.php",
+        "source": "AOTY"
+    },
+    {
+        "artist": "Heraldic Blaze",
+        "album": "Monument of Will",
+        "release_date": "2025-10-31",
+        "genre": "Black Metal",
+        "url": "https://www.albumoftheyear.org/album/1525891-heraldic-blaze-monument-of-will.php",
         "source": "AOTY"
     },
     {
@@ -1533,22 +1549,6 @@
         "release_date": "2025-10-31",
         "genre": "Metalcore",
         "url": "https://www.albumoftheyear.org/album/1429340-bloom-the-light-we-chase.php",
-        "source": "AOTY"
-    },
-    {
-        "artist": "Despised Icon",
-        "album": "Shadow Work",
-        "release_date": "2025-10-31",
-        "genre": "Metalcore, Death Metal",
-        "url": "https://www.albumoftheyear.org/album/1405790-despised-icon-shadow-work.php",
-        "source": "AOTY"
-    },
-    {
-        "artist": "DEEZ NUTS",
-        "album": "Saudade",
-        "release_date": "2025-10-31",
-        "genre": "Metalcore",
-        "url": "https://www.albumoftheyear.org/album/1520969-deez-nuts-saudade.php",
         "source": "AOTY"
     },
     {
@@ -1637,6 +1637,14 @@
         "release_date": "2025-10-31",
         "genre": "Death Metal, Metal",
         "url": "https://musicbrainz.org/release/5801631c-d334-4840-9cc6-5566fc69a3ed",
+        "source": "MusicBrainz"
+    },
+    {
+        "artist": "Despised Icon",
+        "album": "Shadow Work",
+        "release_date": "2025-10-31",
+        "genre": "Death Metal",
+        "url": "https://musicbrainz.org/release/d0ce6421-31ae-49e9-8e7f-6da56628b5a7",
         "source": "MusicBrainz"
     },
     {
